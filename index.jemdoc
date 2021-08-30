@@ -18,16 +18,23 @@ Optics from University of Electronic Science and Technology of China ([https://w
 === Research
 My research interests include 
 - Machine Learning
+- Meta Learning
+- Few-Shot Learning
+- Feature Selection
 - Biological Signal Processing
-- Optical Communication
-- Quantum Optics 
+- Atmospheric Optical Communication
+- Orbital Angular Momentum
+
 
 === Publications 
-
 - T. Zhang, Z. Jiang, D. Li, X. Wei, B. Guo, W. Huang and G. Xu, Sleep staging using Plausibility Score: A novel feature selection method based on metric learning. IEEE Journal of Biomedical and
-Health Informatics, PP(99):1-1 (2020).
+Health Informatics, 25(2): 577-590 (2021).
+- K. Qin,  W. Huang, and T. Zhang, Deep generative model with domain adversarial training for predicting arterial blood pressure waveform from photoplethysmogram signal.
+Biomedical Signal Processing and Control 70: 102972 (2021).
 - W. Huang, B. Guo, Y. Shen, X. Tang, T. Zhang, D. Li, Z. Jiang, Sleep staging algorithm based on multichannel data adding and multifeature screening, Computer methods and programs in biomedicine,
 187: 105253 (2020).
+- D. Li, W. Huang, G. Xu, T. Zhang, Z. Jiang, and D. Cheng. An Adaptive RR Interval Detection Algorithm Based on Species Recognition[J]. 
+International Journal of Computer and Electrical Engineering, 11(4):180-191 (2019).
 - T. Zhang, Y. D. Liu, K. Yang, J. D. Wang, P. S. Liu and Y. J. Yang, Restriction on orbital angular momentum distribution: a role of media in vortex beams propagation, Optics Express, 26(13): 17227
 (2018).
 - T. Zhang, Y. D. Liu, J. D. Wang, P. S. Liu and Y. J. Yang, Synergy Effect of Dually Superposed Orbital Angular Momentum States in Atmospheric Turbulence, IEEE Photonics Journal, 9(4): 7904508
